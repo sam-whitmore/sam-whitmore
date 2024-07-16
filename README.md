@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Sam Whitmore (@sam-whitmore); a 26yo Kiwi striving for a clear mind and conscience! 
+- 👀 I’m interested in the human experience, (predominantly western) culture, and my own brand of philosophy – as well as my friends and family.
+- 🌱 I’m currently learning Svelte in my own time and pursuing a career that leans on this skill-set. Feel free to check out my progress within my 'fabric-svelte' repository!
+- 💞️ I’m looking to collaborate on projects that encourage cultural integrity. 
+- 📫 You can reach me via email at sam@ritan.org.nz or on various social media channels such as Discord or LinkedIn – I'll be glad to hear from you!
+- 😄 Pronouns: I personally identify myself as a non-binary entity, of sorts, so would describe myself with they/them pronouns. This approach stems from a general desire to detach my identity from my physical presence; to deflate the tension that stems from such rigid methods of identification. From the outside-in, however, I'm really not fussed. I'm in a male body and you're welcome to call me he/him; she/her; whatever else! So long as I know you're referring to me, that's the main thing. The best thing you can do is call me Sam!  
+- ⚡ Fun fact: My dog, Macie (black labrador), completed the world's first dog-to-cat blood transfusion – saving the cat's life when it needed an immediate surgery! She's in a Ripley's Believe it or Not! book because of her heroics!
